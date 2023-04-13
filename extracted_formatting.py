@@ -2,7 +2,7 @@ import csv
 from sec_api import ExtractorApi
 from bs4 import BeautifulSoup
 
-extractorApi = ExtractorApi("6b6231b3cc132c9d64303f479f3ad2216f6c890d4ac24418888207217e1767e1")
+extractorApi = ExtractorApi("ENTER SEC API HERE")
 
 filing_url = "https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_20201231.htm"
 
